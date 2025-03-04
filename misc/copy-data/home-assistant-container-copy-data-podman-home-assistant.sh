@@ -3,7 +3,7 @@
 # Copyright (c) 2021-2025 tteck
 # Author: tteck (tteckster)
 # License: MIT
-# https://github.com/community-scripts/ProxmoxVE/raw/main/LICENSE
+# https://github.com/tv4you2016/ProxmoxVE/raw/main/LICENSE
 
 # Use to copy all data from a Home Assistant LXC to a Podman Home Assistant LXC.
 # run from the Proxmox Shell
@@ -126,4 +126,4 @@ info "Successfully Transferred Data."
 
 # Use to copy all data from a Home Assistant LXC to a Podman Home Assistant LXC
 # run from the Proxmox Shell
-# bash -c "$(wget -qLO - https://raw.githubusercontent.com/community-scripts/ProxmoxVE/main/misc/copy-data/home-assistant-container-copy-data-podman-home-assistant.sh)"
+# bash -c "$(wget -qLO - https://raw.githubusercontent.com/tv4you2016/ProxmoxVE/main/misc/copy-data/home-assistant-container-copy-data-podman-home-assistant.sh)"

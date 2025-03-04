@@ -2,7 +2,7 @@
 
 # Copyright (c) 2021-2025 community-scripts ORG
 # Author: Snarkenfaugister
-# License: MIT | https://github.com/community-scripts/ProxmoxVE/raw/main/LICENSE
+# License: MIT | https://github.com/tv4you2016/ProxmoxVE/raw/main/LICENSE
 # Source: https://github.com/pocket-id/pocket-id
 
 source /dev/stdin <<< "$FUNCTIONS_FILE_PATH"

@@ -4,7 +4,7 @@
 # Author: tteck (tteckster)
 # Co-Author: Scorpoon
 # License: MIT
-# https://github.com/community-scripts/ProxmoxVE/raw/main/LICENSE
+# https://github.com/tv4you2016/ProxmoxVE/raw/main/LICENSE
 # Source: https://github.com/revenz/Fenrus
 
 

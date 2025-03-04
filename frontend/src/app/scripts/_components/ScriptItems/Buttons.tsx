@@ -5,18 +5,18 @@ import { BookOpenText, Code, Globe, RefreshCcw } from "lucide-react";
 import Link from "next/link";
 
 const generateInstallSourceUrl = (slug: string) => {
-  const baseUrl = `https://raw.githubusercontent.com/community-scripts/${basePath}/main`;
+  const baseUrl = `https://raw.githubusercontent.com/tv4you2016/${basePath}/main`;
   return `${baseUrl}/install/${slug}-install.sh`;
 };
 
 const generateSourceUrl = (slug: string, type: string) => {
-  const baseUrl = `https://raw.githubusercontent.com/community-scripts/${basePath}/main`;
+  const baseUrl = `https://raw.githubusercontent.com/tv4you2016/${basePath}/main`;
   return type === "vm" ? `${baseUrl}/vm/${slug}.sh` : `${baseUrl}/misc/${slug}.sh`;
   return `${baseUrl}/misc/${slug}.sh`;
 };
 
 const generateUpdateUrl = (slug: string) => {
-  const baseUrl = `https://raw.githubusercontent.com/community-scripts/${basePath}/main`;
+  const baseUrl = `https://raw.githubusercontent.com/tv4you2016/${basePath}/main`;
   return `${baseUrl}/ct/${slug}.sh`;
 };
 
